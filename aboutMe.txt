@@ -2,3 +2,9 @@ Hello! My name is Justin Ling.
 I am a senior at Santa Clara University.
 I am majoring in Web Design and Engineering with a minor in Computer Science and Engineering.
 In my free time I really enjoy camping and hiking.
+
+The classes I am taking this quarter include:
+Software Engineering
+Theology of Marriage
+Conscientious Capitalism
+Senior Design
